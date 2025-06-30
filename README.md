@@ -47,3 +47,29 @@ This project is perfect for:
    ```bash
    git@github.com:hasancse06/woocommerce-login-register-ionic-angular.git
    cd woocommerce-login-register-ionic-angular
+
+
+
+## 🧠 SEO Keywords
+
+> ionic angular woocommerce login register reset password  
+> wordpress jwt auth mobile app  
+> reset woocommerce password API mobile  
+> headless ecommerce app authentication  
+> ionic wordpress rest api login reset
+
+   
+## 🙌 Author
+
+**M A Hasan**  
+🌐 [https://hasan.online](https://hasan.online)
+
+
+## ⭐ Support This Project
+
+If you find this useful:
+- ⭐ Star the repository on GitHub
+- 🔗 Share it with fellow Ionic, WordPress, or mobile app developers
+- 💡 Contribute with feedback or pull requests
+
+> Together, we make WordPress more mobile-friendly and developer-first 🚀
