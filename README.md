@@ -50,14 +50,9 @@ This project is perfect for:
 
 
 
-## 🧠 SEO Keywords
+## Screenshot
 
-> ionic angular woocommerce login register reset password  
-> wordpress jwt auth mobile app  
-> reset woocommerce password API mobile  
-> headless ecommerce app authentication  
-> ionic wordpress rest api login reset
-
+![Screenshot](login-success.jpg)
    
 ## 🙌 Author
 
